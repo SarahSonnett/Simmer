@@ -1,6 +1,6 @@
 # Simmer
 
-![tests](https://github.com/SarahSonnett/Simmer-public/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/SarahSonnett/Simmer/actions/workflows/tests.yml/badge.svg)
 
 **Sim**ulated survey detections of a synthetic asteroid population — a
 forward model of the fully-cryogenic WISE/NEOWISE infrared survey (2010),
