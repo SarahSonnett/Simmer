@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below. A peer-reviewed paper describing the pipeline and its science results is in preparation."
+title: "Simmer: forward survey simulation and ML emulation of asteroid detection efficiency"
+authors:
+  - family-names: Sonnett
+    given-names: Sarah
+    affiliation: Planetary Science Institute
+year: 2026
+url: "https://github.com/SarahSonnett/Simmer-public"
+license: BSD-3-Clause

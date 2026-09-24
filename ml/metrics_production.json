@@ -1,0 +1,7 @@
+{
+  "model": "HistGradientBoosting, lr=0.03, depth=None, monotone in D",
+  "n_train": 125000,
+  "test_logloss": 0.4495,
+  "test_eta_mae": 0.0164,
+  "n_trees": 225
+}

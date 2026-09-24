@@ -1,0 +1,29 @@
+{
+  "shap_mean_abs": {
+    "diam_km": 2.0838,
+    "a_au": 0.4647,
+    "eta": 0.133,
+    "e": 0.068,
+    "i_deg": 0.0669,
+    "pV": 0.0271,
+    "b_over_a": 0.0089,
+    "rot_period_h": 0.0049,
+    "pole_beta_deg": 0.0046
+  },
+  "permutation_importance": {
+    "diam_km": 0.7547,
+    "a_au": 0.1148,
+    "eta": 0.0137,
+    "e": 0.0099,
+    "i_deg": 0.0055,
+    "pV": 0.0022,
+    "b_over_a": 0.0012,
+    "pole_beta_deg": 0.0012,
+    "rot_period_h": 0.0011
+  },
+  "monotonicity": {
+    "slices": 400,
+    "slices_with_any_drop": 397,
+    "worst_cumulative_drop": 0.4807
+  }
+}

@@ -1,0 +1,100 @@
+<svg width="680" viewBox="0 0 680 620" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>WISE timing: ramps, single-exposures, and coadds</title>
+<desc>One single-exposure is an 8.8 s charge ramp sampled by nine reads within an 11 s frame cadence; the weighted slope is the flux. A new single-exposure is produced every 11 s. About 8 to 12 separate frames of one sky point stack into a coadd that is root-eight deeper, but a moving asteroid appears in only one frame so the single-frame limit applies.</desc>
+<style>
+  text{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+  .t{font-size:14px;fill:#1a1a1a}
+  .ts{font-size:12px;fill:#555555}
+  .th{font-size:14px;font-weight:500;fill:#1a1a1a}
+  .box{fill:#f4f4f5;stroke:#b8b8bd;stroke-width:1}
+  .c-blue rect,rect.c-blue,.c-blue circle,circle.c-blue{fill:#e6f1fb;stroke:#2563eb;stroke-width:1.5}
+  .c-blue text{fill:#0c447c}
+  .c-amber rect,rect.c-amber{fill:#fbead0;stroke:#d97706;stroke-width:1.5}
+  .c-amber text{fill:#7a4a0c}
+  .arr{stroke:#666;stroke-width:1.5;fill:none;marker-end:url(#ah)}
+</style>
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#666" stroke-width="1.2"/></marker></defs>
+<rect x="0" y="0" width="680" height="620" fill="#ffffff"/>
+
+<text class="th" x="40" y="52">a single-exposure is one sampled ramp (W3/W4)</text>
+
+<line x1="95" y1="66" x2="590" y2="66" stroke="#94a3b8" stroke-width="1"/>
+<line x1="95" y1="66" x2="95" y2="70" stroke="#94a3b8" stroke-width="1"/>
+<line x1="590" y1="66" x2="590" y2="70" stroke="#94a3b8" stroke-width="1"/>
+<text class="ts" x="342" y="61" text-anchor="middle">11 s frame cadence</text>
+
+<line x1="95" y1="75" x2="95" y2="210" stroke="#94a3b8" stroke-width="1"/>
+<line x1="95" y1="210" x2="600" y2="210" stroke="#94a3b8" stroke-width="1"/>
+<text class="ts" x="80" y="150" text-anchor="middle" transform="rotate(-90 80 150)">charge</text>
+
+<line x1="95" y1="210" x2="491" y2="80" stroke="#2563eb" stroke-width="2"/>
+<polyline points="491,80 505,210 590,210" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4 3"/>
+<circle cx="95" cy="210" r="4" fill="#2563eb"/>
+<circle cx="144.5" cy="193.75" r="4" fill="#2563eb"/>
+<circle cx="194" cy="177.5" r="4" fill="#2563eb"/>
+<circle cx="243.5" cy="161.25" r="4" fill="#2563eb"/>
+<circle cx="293" cy="145" r="4" fill="#2563eb"/>
+<circle cx="342.5" cy="128.75" r="4" fill="#2563eb"/>
+<circle cx="392" cy="112.5" r="4" fill="#2563eb"/>
+<circle cx="441.5" cy="96.25" r="4" fill="#2563eb"/>
+<circle cx="491" cy="80" r="4" fill="#2563eb"/>
+
+<text class="ts" x="150" y="92" text-anchor="start">9 reads (dots) &#8594; slope = flux</text>
+<line x1="252" y1="96" x2="291" y2="142" stroke="#94a3b8" stroke-width="0.5" stroke-dasharray="3 2"/>
+
+<line x1="95" y1="222" x2="491" y2="222" stroke="#94a3b8" stroke-width="1"/>
+<line x1="95" y1="218" x2="95" y2="222" stroke="#94a3b8" stroke-width="1"/>
+<line x1="491" y1="218" x2="491" y2="222" stroke="#94a3b8" stroke-width="1"/>
+<text class="ts" x="293" y="236" text-anchor="middle">8.8 s &#8212; one single-exposure</text>
+<line x1="491" y1="222" x2="590" y2="222" stroke="#94a3b8" stroke-width="1"/>
+<line x1="590" y1="218" x2="590" y2="222" stroke="#94a3b8" stroke-width="1"/>
+<text class="ts" x="540" y="236" text-anchor="middle">2.2 s reset</text>
+
+<text class="th" x="40" y="292">a new single-exposure every 11 s</text>
+<line x1="95" y1="312" x2="196" y2="312" stroke="#94a3b8" stroke-width="1"/>
+<line x1="95" y1="312" x2="95" y2="316" stroke="#94a3b8" stroke-width="1"/>
+<line x1="196" y1="312" x2="196" y2="316" stroke="#94a3b8" stroke-width="1"/>
+<text class="ts" x="145" y="308" text-anchor="middle">11 s</text>
+
+<rect class="box" x="95" y="320" width="101" height="40"/>
+<rect class="box" x="196" y="320" width="101" height="40"/>
+<rect class="box" x="297" y="320" width="101" height="40"/>
+<rect class="box" x="398" y="320" width="101" height="40"/>
+<rect class="box" x="499" y="320" width="101" height="40"/>
+<g class="c-blue">
+<rect x="96" y="321" width="79" height="38"/>
+<text class="ts" x="135" y="344" text-anchor="middle">8.8 s</text>
+</g>
+<rect class="c-blue" x="197" y="321" width="79" height="38"/>
+<rect class="c-blue" x="298" y="321" width="79" height="38"/>
+<rect class="c-blue" x="399" y="321" width="79" height="38"/>
+<rect class="c-blue" x="500" y="321" width="79" height="38"/>
+<text class="ts" x="145" y="375" text-anchor="middle">frame 1</text>
+<text class="ts" x="246" y="375" text-anchor="middle">frame 2</text>
+<text class="ts" x="347" y="375" text-anchor="middle">frame 3</text>
+<text class="ts" x="448" y="375" text-anchor="middle">frame 4</text>
+<text class="ts" x="549" y="375" text-anchor="middle">frame 5</text>
+<text class="ts" x="342" y="394" text-anchor="middle">each frame = one single-exposure (integrate, then reset)</text>
+
+<text class="th" x="40" y="442">coadds stack frames of one sky point</text>
+<rect class="c-blue" x="100" y="468" width="120" height="16"/>
+<rect class="c-blue" x="104" y="475" width="120" height="16"/>
+<rect class="c-blue" x="108" y="482" width="120" height="16"/>
+<rect class="c-blue" x="112" y="489" width="120" height="16"/>
+<rect class="c-blue" x="116" y="496" width="120" height="16"/>
+<rect class="c-blue" x="120" y="503" width="120" height="16"/>
+<text class="ts" x="170" y="535" text-anchor="middle">~8&#8211;12 single frames</text>
+
+<line class="arr" x1="252" y1="491" x2="330" y2="491"/>
+<g class="c-blue">
+<rect x="345" y="473" width="150" height="37"/>
+<text class="th" x="420" y="490" text-anchor="middle">coadd</text>
+<text class="ts" x="420" y="504" text-anchor="middle">&#8730;8 deeper</text>
+</g>
+
+<g class="c-amber">
+<rect x="95" y="555" width="505" height="44"/>
+<text class="ts" x="347" y="573" text-anchor="middle">an asteroid moves between frames &#8212; it appears in one frame only,</text>
+<text class="ts" x="347" y="590" text-anchor="middle">so the single-frame limit applies (no &#8730;8 coadd gain)</text>
+</g>
+</svg>

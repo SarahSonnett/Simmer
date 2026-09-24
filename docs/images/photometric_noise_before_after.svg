@@ -1,0 +1,88 @@
+<svg width="680" viewBox="0 0 680 360" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Photometric noise, before and after</title><desc>One elongated synthetic asteroid near the detection limit. The solid line is the true rotating-ellipsoid lightcurve; the points are the measured fluxes after adding photometric noise, with 1-sigma error bars, coloured by whether they clear the 2.26 mJy single-frame limit.</desc>
+<style>text{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;fill:#1a1a1a}.ts{font-size:12px;fill:#555}.th{font-size:14px;font-weight:500}</style>
+<rect x="0" y="0" width="680" height="360" fill="#ffffff"/>
+<text class="th" x="40" y="28">photometric noise: before and after (elongated object near the limit)</text>
+<line x1="92" y1="300.0" x2="540" y2="300.0" stroke="#eee"/>
+<text class="ts" x="84" y="304.0" text-anchor="end">0</text>
+<line x1="92" y1="251.2" x2="540" y2="251.2" stroke="#eee"/>
+<text class="ts" x="84" y="255.2" text-anchor="end">1</text>
+<line x1="92" y1="202.4" x2="540" y2="202.4" stroke="#eee"/>
+<text class="ts" x="84" y="206.4" text-anchor="end">2</text>
+<line x1="92" y1="153.6" x2="540" y2="153.6" stroke="#eee"/>
+<text class="ts" x="84" y="157.6" text-anchor="end">3</text>
+<line x1="92" y1="104.8" x2="540" y2="104.8" stroke="#eee"/>
+<text class="ts" x="84" y="108.8" text-anchor="end">4</text>
+<line x1="92" y1="56.0" x2="540" y2="56.0" stroke="#eee"/>
+<text class="ts" x="84" y="60.0" text-anchor="end">5</text>
+<text class="ts" x="92.0" y="316" text-anchor="middle">0</text>
+<text class="ts" x="204.0" y="316" text-anchor="middle">0.25</text>
+<text class="ts" x="316.0" y="316" text-anchor="middle">0.5</text>
+<text class="ts" x="428.0" y="316" text-anchor="middle">0.75</text>
+<text class="ts" x="540.0" y="316" text-anchor="middle">1</text>
+<line x1="92" y1="56" x2="92" y2="300" stroke="#94a3b8"/>
+<line x1="92" y1="300" x2="540" y2="300" stroke="#94a3b8"/>
+<text class="ts" x="316" y="332" text-anchor="middle">rotation phase</text>
+<text class="ts" x="34" y="178" text-anchor="middle" transform="rotate(-90 34 178)">W3 flux (mJy)</text>
+<line x1="92" y1="189.6" x2="540" y2="189.6" stroke="#d97706" stroke-width="1.6" stroke-dasharray="6 3"/>
+<text class="ts" x="538" y="184.6" text-anchor="end" fill="#7a4a0c">5σ limit 2.26 mJy</text>
+<polyline points="92.0,213.8 93.9,213.7 95.7,213.5 97.6,213.0 99.5,212.5 101.3,211.7 103.2,210.8 105.1,209.7 106.9,208.6 108.8,207.2 110.7,205.8 112.5,204.2 114.4,202.6 116.3,200.8 118.1,199.0 120.0,197.1 121.9,195.1 123.7,193.1 125.6,191.0 127.5,188.9 129.3,186.7 131.2,184.6 133.1,182.4 134.9,180.2 136.8,178.0 138.7,175.8 140.5,173.6 142.4,171.4 144.3,169.2 146.1,167.1 148.0,165.0 149.9,162.9 151.7,160.9 153.6,158.9 155.5,156.9 157.3,155.0 159.2,153.1 161.1,151.3 162.9,149.6 164.8,147.9 166.7,146.3 168.5,144.7 170.4,143.2 172.3,141.8 174.1,140.5 176.0,139.2 177.9,138.0 179.7,136.8 181.6,135.8 183.5,134.8 185.3,133.9 187.2,133.1 189.1,132.4 190.9,131.7 192.8,131.2 194.7,130.7 196.5,130.3 198.4,130.0 200.3,129.8 202.1,129.7 204.0,129.6 205.9,129.7 207.7,129.8 209.6,130.0 211.5,130.3 213.3,130.7 215.2,131.2 217.1,131.7 218.9,132.4 220.8,133.1 222.7,133.9 224.5,134.8 226.4,135.8 228.3,136.8 230.1,138.0 232.0,139.2 233.9,140.5 235.7,141.8 237.6,143.2 239.5,144.7 241.3,146.3 243.2,147.9 245.1,149.6 246.9,151.3 248.8,153.1 250.7,155.0 252.5,156.9 254.4,158.9 256.3,160.9 258.1,162.9 260.0,165.0 261.9,167.1 263.7,169.2 265.6,171.4 267.5,173.6 269.3,175.8 271.2,178.0 273.1,180.2 274.9,182.4 276.8,184.6 278.7,186.7 280.5,188.9 282.4,191.0 284.3,193.1 286.1,195.1 288.0,197.1 289.9,199.0 291.7,200.8 293.6,202.6 295.5,204.2 297.3,205.8 299.2,207.2 301.1,208.6 302.9,209.7 304.8,210.8 306.7,211.7 308.5,212.5 310.4,213.0 312.3,213.5 314.1,213.7 316.0,213.8 317.9,213.7 319.7,213.5 321.6,213.0 323.5,212.5 325.3,211.7 327.2,210.8 329.1,209.7 330.9,208.6 332.8,207.2 334.7,205.8 336.5,204.2 338.4,202.6 340.3,200.8 342.1,199.0 344.0,197.1 345.9,195.1 347.7,193.1 349.6,191.0 351.5,188.9 353.3,186.7 355.2,184.6 357.1,182.4 358.9,180.2 360.8,178.0 362.7,175.8 364.5,173.6 366.4,171.4 368.3,169.2 370.1,167.1 372.0,165.0 373.9,162.9 375.7,160.9 377.6,158.9 379.5,156.9 381.3,155.0 383.2,153.1 385.1,151.3 386.9,149.6 388.8,147.9 390.7,146.3 392.5,144.7 394.4,143.2 396.3,141.8 398.1,140.5 400.0,139.2 401.9,138.0 403.7,136.8 405.6,135.8 407.5,134.8 409.3,133.9 411.2,133.1 413.1,132.4 414.9,131.7 416.8,131.2 418.7,130.7 420.5,130.3 422.4,130.0 424.3,129.8 426.1,129.7 428.0,129.6 429.9,129.7 431.7,129.8 433.6,130.0 435.5,130.3 437.3,130.7 439.2,131.2 441.1,131.7 442.9,132.4 444.8,133.1 446.7,133.9 448.5,134.8 450.4,135.8 452.3,136.8 454.1,138.0 456.0,139.2 457.9,140.5 459.7,141.8 461.6,143.2 463.5,144.7 465.3,146.3 467.2,147.9 469.1,149.6 470.9,151.3 472.8,153.1 474.7,155.0 476.5,156.9 478.4,158.9 480.3,160.9 482.1,162.9 484.0,165.0 485.9,167.1 487.7,169.2 489.6,171.4 491.5,173.6 493.3,175.8 495.2,178.0 497.1,180.2 498.9,182.4 500.8,184.6 502.7,186.7 504.5,188.9 506.4,191.0 508.3,193.1 510.1,195.1 512.0,197.1 513.9,199.0 515.7,200.8 517.6,202.6 519.5,204.2 521.3,205.8 523.2,207.2 525.1,208.6 526.9,209.7 528.8,210.8 530.7,211.7 532.5,212.5 534.4,213.0 536.3,213.5 538.1,213.7 540.0,213.8" fill="none" stroke="#2563eb" stroke-width="2"/>
+<line x1="112.3" y1="228.6" x2="112.3" y2="184.0" stroke="#6b7280" stroke-width="1"/>
+<circle cx="112.3" cy="204.4" r="1.8" fill="#2563eb"/>
+<circle cx="112.3" cy="206.3" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="113.8" y1="251.3" x2="113.8" y2="206.7" stroke="#6b7280" stroke-width="1"/>
+<circle cx="113.8" cy="203.1" r="1.8" fill="#2563eb"/>
+<circle cx="113.8" cy="229.0" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="116.2" y1="237.2" x2="116.2" y2="192.7" stroke="#6b7280" stroke-width="1"/>
+<circle cx="116.2" cy="200.9" r="1.8" fill="#2563eb"/>
+<circle cx="116.2" cy="214.9" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="197.1" y1="163.9" x2="197.1" y2="118.6" stroke="#16a34a" stroke-width="1"/>
+<circle cx="197.1" cy="130.2" r="1.8" fill="#2563eb"/>
+<circle cx="197.1" cy="141.3" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="220.0" y1="171.6" x2="220.0" y2="126.3" stroke="#16a34a" stroke-width="1"/>
+<circle cx="220.0" cy="132.8" r="1.8" fill="#2563eb"/>
+<circle cx="220.0" cy="149.0" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="263.7" y1="179.3" x2="263.7" y2="134.4" stroke="#16a34a" stroke-width="1"/>
+<circle cx="263.7" cy="169.3" r="1.8" fill="#2563eb"/>
+<circle cx="263.7" cy="156.8" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="275.0" y1="206.2" x2="275.0" y2="161.5" stroke="#16a34a" stroke-width="1"/>
+<circle cx="275.0" cy="182.4" r="1.8" fill="#2563eb"/>
+<circle cx="275.0" cy="183.9" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="286.9" y1="231.3" x2="286.9" y2="186.7" stroke="#6b7280" stroke-width="1"/>
+<circle cx="286.9" cy="195.9" r="1.8" fill="#2563eb"/>
+<circle cx="286.9" cy="209.0" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="322.9" y1="225.8" x2="322.9" y2="181.3" stroke="#6b7280" stroke-width="1"/>
+<circle cx="322.9" cy="212.7" r="1.8" fill="#2563eb"/>
+<circle cx="322.9" cy="203.5" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="384.3" y1="155.9" x2="384.3" y2="110.9" stroke="#16a34a" stroke-width="1"/>
+<circle cx="384.3" cy="152.1" r="1.8" fill="#2563eb"/>
+<circle cx="384.3" cy="133.4" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="452.6" y1="196.8" x2="452.6" y2="151.6" stroke="#16a34a" stroke-width="1"/>
+<circle cx="452.6" cy="137.1" r="1.8" fill="#2563eb"/>
+<circle cx="452.6" cy="174.2" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="454.0" y1="166.3" x2="454.0" y2="121.1" stroke="#16a34a" stroke-width="1"/>
+<circle cx="454.0" cy="137.9" r="1.8" fill="#2563eb"/>
+<circle cx="454.0" cy="143.7" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="470.2" y1="195.3" x2="470.2" y2="150.2" stroke="#16a34a" stroke-width="1"/>
+<circle cx="470.2" cy="150.7" r="1.8" fill="#2563eb"/>
+<circle cx="470.2" cy="172.8" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="494.2" y1="203.0" x2="494.2" y2="158.2" stroke="#16a34a" stroke-width="1"/>
+<circle cx="494.2" cy="176.7" r="1.8" fill="#2563eb"/>
+<circle cx="494.2" cy="180.6" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<line x1="528.4" y1="261.5" x2="528.4" y2="217.0" stroke="#6b7280" stroke-width="1"/>
+<circle cx="528.4" cy="210.6" r="1.8" fill="#2563eb"/>
+<circle cx="528.4" cy="239.3" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="539.6" y1="235.6" x2="539.6" y2="191.1" stroke="#6b7280" stroke-width="1"/>
+<circle cx="539.6" cy="213.8" r="1.8" fill="#2563eb"/>
+<circle cx="539.6" cy="213.3" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<line x1="560" y1="80" x2="582" y2="80" stroke="#2563eb" stroke-width="2"/>
+<text class="ts" x="588" y="84">true</text>
+<text class="ts" x="560" y="104">lightcurve</text>
+<circle cx="571" cy="128" r="4" fill="#16a34a" stroke="#333" stroke-width="0.6"/>
+<text class="ts" x="588" y="132">detected</text>
+<circle cx="571" cy="150" r="4" fill="#6b7280" stroke="#333" stroke-width="0.6"/>
+<text class="ts" x="588" y="154">not</text>
+<text class="ts" x="560" y="180">points =</text>
+<text class="ts" x="560" y="196">measured</text>
+<text class="ts" x="560" y="212">± 1σ</text>
+</svg>

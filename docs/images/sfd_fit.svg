@@ -1,0 +1,88 @@
+<svg width="680" viewBox="0 0 680 350" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Debiased SFD with broken power-law fit</title><desc>Debiased size-frequency distribution fit with a broken power law: cumulative slope 1.8 below and 3.4 above a break near 5 km, selected over a single power law by BIC.</desc>
+<style>text{font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;fill:#1a1a1a}.ts{font-size:12px;fill:#555}.th{font-size:14px;font-weight:500}</style>
+<rect width="680" height="350" fill="#ffffff"/>
+<text class="th" x="40" y="28">debiased SFD + broken power-law fit (α = cumulative slope, N(&gt;D) ∝ D⁻ᵅ)</text>
+<line x1="92" y1="300.0" x2="560" y2="300.0" stroke="#eee"/>
+<text class="ts" x="84" y="304.0" text-anchor="end">1</text>
+<line x1="92" y1="242.3" x2="560" y2="242.3" stroke="#eee"/>
+<text class="ts" x="84" y="246.3" text-anchor="end">10</text>
+<line x1="92" y1="184.7" x2="560" y2="184.7" stroke="#eee"/>
+<text class="ts" x="84" y="188.7" text-anchor="end">100</text>
+<line x1="92" y1="127.0" x2="560" y2="127.0" stroke="#eee"/>
+<text class="ts" x="84" y="131.0" text-anchor="end">1000</text>
+<line x1="92" y1="69.3" x2="560" y2="69.3" stroke="#eee"/>
+<text class="ts" x="84" y="73.3" text-anchor="end">10⁴</text>
+<text class="ts" x="92.0" y="316" text-anchor="middle">1</text>
+<text class="ts" x="187.4" y="316" text-anchor="middle">2</text>
+<text class="ts" x="313.5" y="316" text-anchor="middle">5</text>
+<text class="ts" x="408.8" y="316" text-anchor="middle">10</text>
+<text class="ts" x="504.2" y="316" text-anchor="middle">20</text>
+<text class="ts" x="560.0" y="316" text-anchor="middle">30</text>
+<line x1="92" y1="52" x2="92" y2="300" stroke="#94a3b8"/><line x1="92" y1="300" x2="560" y2="300" stroke="#94a3b8"/>
+<text class="ts" x="326" y="332" text-anchor="middle">diameter (km, log)</text>
+<text class="ts" x="34" y="176" text-anchor="middle" transform="rotate(-90 34 176)">number per bin (log)</text>
+<polyline points="105.0,78.5 131.0,87.0 157.0,95.6 183.0,104.1 209.0,112.6 235.0,121.1 261.0,129.6 287.0,138.1 313.0,146.7 339.0,162.6 365.0,178.7 391.0,194.8 417.0,210.9 443.0,227.0 469.0,243.1 495.0,259.2 521.0,275.3 547.0,291.4" fill="none" stroke="#111827" stroke-width="1.4" stroke-dasharray="5 4"/>
+<circle cx="105.0" cy="112.3" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="131.0" cy="116.8" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="157.0" cy="121.4" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="183.0" cy="125.4" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="209.0" cy="132.7" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="235.0" cy="137.5" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="261.0" cy="143.8" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="287.0" cy="150.1" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="313.0" cy="156.8" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="339.0" cy="170.3" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="365.0" cy="188.1" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="391.0" cy="204.7" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="417.0" cy="218.4" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="443.0" cy="233.9" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="469.0" cy="251.3" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="495.0" cy="259.7" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="521.0" cy="282.6" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="547.0" cy="300.0" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+<line x1="105.0" y1="79.5" x2="105.0" y2="77.8" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="105.0" cy="78.6" r="2.8" fill="#2563eb"/>
+<line x1="131.0" y1="88.3" x2="131.0" y2="86.6" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="131.0" cy="87.5" r="2.8" fill="#2563eb"/>
+<line x1="157.0" y1="96.8" x2="157.0" y2="95.1" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="157.0" cy="95.9" r="2.8" fill="#2563eb"/>
+<line x1="183.0" y1="104.3" x2="183.0" y2="102.6" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="183.0" cy="103.5" r="2.8" fill="#2563eb"/>
+<line x1="209.0" y1="114.7" x2="209.0" y2="112.8" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="209.0" cy="113.8" r="2.8" fill="#2563eb"/>
+<line x1="235.0" y1="122.2" x2="235.0" y2="120.1" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="235.0" cy="121.1" r="2.8" fill="#2563eb"/>
+<line x1="261.0" y1="130.8" x2="261.0" y2="128.5" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="261.0" cy="129.6" r="2.8" fill="#2563eb"/>
+<line x1="287.0" y1="139.1" x2="287.0" y2="136.5" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="287.0" cy="137.8" r="2.8" fill="#2563eb"/>
+<line x1="313.0" y1="147.5" x2="313.0" y2="144.5" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="313.0" cy="146.0" r="2.8" fill="#2563eb"/>
+<line x1="339.0" y1="162.8" x2="339.0" y2="158.8" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="339.0" cy="160.8" r="2.8" fill="#2563eb"/>
+<line x1="365.0" y1="182.4" x2="365.0" y2="176.7" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="365.0" cy="179.6" r="2.8" fill="#2563eb"/>
+<line x1="391.0" y1="200.9" x2="391.0" y2="192.9" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="391.0" cy="196.9" r="2.8" fill="#2563eb"/>
+<line x1="417.0" y1="216.7" x2="417.0" y2="205.9" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="417.0" cy="211.2" r="2.8" fill="#2563eb"/>
+<line x1="443.0" y1="234.9" x2="443.0" y2="219.8" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="443.0" cy="227.2" r="2.8" fill="#2563eb"/>
+<line x1="469.0" y1="256.5" x2="469.0" y2="234.2" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="469.0" cy="245.0" r="2.8" fill="#2563eb"/>
+<line x1="495.0" y1="267.8" x2="495.0" y2="240.8" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="495.0" cy="253.7" r="2.8" fill="#2563eb"/>
+<line x1="521.0" y1="300.0" x2="521.0" y2="255.9" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="521.0" cy="276.9" r="2.8" fill="#2563eb"/>
+<line x1="547.0" y1="300.0" x2="547.0" y2="264.6" stroke="#2563eb" stroke-width="1.2"/>
+<circle cx="547.0" cy="294.4" r="2.8" fill="#2563eb"/>
+<polyline points="105.0,78.9 110.6,80.7 116.2,82.5 121.8,84.3 127.4,86.2 133.0,88.0 138.6,89.8 144.2,91.6 149.8,93.4 155.4,95.2 160.9,97.0 166.5,98.9 172.1,100.7 177.7,102.5 183.3,104.3 188.9,106.1 194.5,107.9 200.1,109.7 205.7,111.6 211.3,113.4 216.9,115.2 222.5,117.0 228.1,118.8 233.7,120.6 239.3,122.4 244.9,124.3 250.5,126.1 256.1,127.9 261.7,129.7 267.3,131.5 272.8,133.3 278.4,135.1 284.0,137.0 289.6,138.8 295.2,140.6 300.8,142.4 306.4,144.2 312.0,146.0 317.6,149.2 323.2,152.7 328.8,156.2 334.4,159.7 340.0,163.2 345.6,166.6 351.2,170.1 356.8,173.6 362.4,177.1 368.0,180.6 373.6,184.1 379.2,187.5 384.7,191.0 390.3,194.5 395.9,198.0 401.5,201.5 407.1,205.0 412.7,208.4 418.3,211.9 423.9,215.4 429.5,218.9 435.1,222.4 440.7,225.9 446.3,229.4 451.9,232.8 457.5,236.3 463.1,239.8 468.7,243.3 474.3,246.8 479.9,250.3 485.5,253.7 491.1,257.2 496.6,260.7 502.2,264.2 507.8,267.7 513.4,271.2 519.0,274.7 524.6,278.1 530.2,281.6 535.8,285.1 541.4,288.6 547.0,292.1" fill="none" stroke="#0f9d58" stroke-width="2.4"/>
+<line x1="313.0" y1="52" x2="313.0" y2="300" stroke="#0f9d58" stroke-width="1" stroke-dasharray="3 3"/>
+<text class="ts" x="317" y="64" fill="#0b7a43">break ≈ 5.0 km</text>
+<line x1="400" y1="70" x2="420" y2="70" stroke="#111827" stroke-width="1.4" stroke-dasharray="5 4"/><text class="ts" x="426" y="74">true SFD</text>
+<circle cx="410" cy="86" r="2.6" fill="none" stroke="#d97706" stroke-width="1.5"/><text class="ts" x="426" y="90">observed (detected)</text>
+<circle cx="410" cy="102" r="2.8" fill="#2563eb"/><text class="ts" x="426" y="106">debiased N_true ±1σ</text>
+<line x1="400" y1="118" x2="420" y2="118" stroke="#0f9d58" stroke-width="2.4"/><text class="ts" x="426" y="122">broken-law fit (BIC: 1 break)</text>
+<text class="ts" x="98" y="66" fill="#0b7a43">α = 1.78 → 3.42</text>
+</svg>

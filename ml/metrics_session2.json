@@ -1,0 +1,35 @@
+{
+  "baseline_logD": {
+    "logloss": 0.5273,
+    "auc": 0.812,
+    "brier": 0.1766,
+    "eta_mae": 0.0861,
+    "eta_bins": 24
+  },
+  "logistic_all": {
+    "logloss": 0.5212,
+    "auc": 0.8177,
+    "brier": 0.1743,
+    "eta_mae": 0.0857,
+    "eta_bins": 24
+  },
+  "gbm": {
+    "logloss": 0.4423,
+    "auc": 0.8494,
+    "brier": 0.1492,
+    "eta_mae": 0.0135,
+    "eta_bins": 24
+  },
+  "gbm_mono": {
+    "logloss": 0.4483,
+    "auc": 0.8468,
+    "brier": 0.1511,
+    "eta_mae": 0.0199,
+    "eta_bins": 24
+  },
+  "runtime": {
+    "physics_s_per_object": 0.00385,
+    "surrogate_s_per_object": 7.2e-07,
+    "speedup": 5319.0
+  }
+}

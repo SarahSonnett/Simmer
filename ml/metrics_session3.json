@@ -1,0 +1,158 @@
+{
+  "tuning_grid": [
+    {
+      "lr": 0.03,
+      "depth": "3",
+      "val_logloss": 0.4457,
+      "val_eta_mae": 0.0131,
+      "n_trees": 500
+    },
+    {
+      "lr": 0.03,
+      "depth": "6",
+      "val_logloss": 0.4419,
+      "val_eta_mae": 0.0135,
+      "n_trees": 244
+    },
+    {
+      "lr": 0.03,
+      "depth": "None",
+      "val_logloss": 0.4418,
+      "val_eta_mae": 0.0133,
+      "n_trees": 252
+    },
+    {
+      "lr": 0.1,
+      "depth": "3",
+      "val_logloss": 0.445,
+      "val_eta_mae": 0.0132,
+      "n_trees": 193
+    },
+    {
+      "lr": 0.1,
+      "depth": "6",
+      "val_logloss": 0.4426,
+      "val_eta_mae": 0.0136,
+      "n_trees": 83
+    },
+    {
+      "lr": 0.1,
+      "depth": "None",
+      "val_logloss": 0.4423,
+      "val_eta_mae": 0.0135,
+      "n_trees": 91
+    },
+    {
+      "lr": 0.3,
+      "depth": "3",
+      "val_logloss": 0.4457,
+      "val_eta_mae": 0.0133,
+      "n_trees": 54
+    },
+    {
+      "lr": 0.3,
+      "depth": "6",
+      "val_logloss": 0.4434,
+      "val_eta_mae": 0.0137,
+      "n_trees": 32
+    },
+    {
+      "lr": 0.3,
+      "depth": "None",
+      "val_logloss": 0.4437,
+      "val_eta_mae": 0.0136,
+      "n_trees": 31
+    }
+  ],
+  "best_params": {
+    "lr": 0.03,
+    "depth": "None",
+    "val_logloss": 0.4418,
+    "val_eta_mae": 0.0133,
+    "n_trees": 252
+  },
+  "grouped_cv": [
+    {
+      "band": "1.75-2.1 au",
+      "eta_mae": 0.0637,
+      "n": 22199
+    },
+    {
+      "band": "2.1-2.5 au",
+      "eta_mae": 0.0384,
+      "n": 25813
+    },
+    {
+      "band": "2.5-2.85 au",
+      "eta_mae": 0.026,
+      "n": 22439
+    },
+    {
+      "band": "2.85-3.3 au",
+      "eta_mae": 0.0167,
+      "n": 29073
+    },
+    {
+      "band": "3.3-3.71 au",
+      "eta_mae": 0.0484,
+      "n": 25476
+    }
+  ],
+  "grouped_cv_mean": 0.0386,
+  "random_cv_mean": 0.008,
+  "final_test": {
+    "logloss": 0.4435,
+    "eta_mae": 0.0109
+  },
+  "families": [
+    {
+      "zone": "IB",
+      "family": "Vesta",
+      "eta_mae": 0.0171,
+      "n_bins": 30
+    },
+    {
+      "zone": "IB",
+      "family": "Eulalia",
+      "eta_mae": 0.0129,
+      "n_bins": 30
+    },
+    {
+      "zone": "MB",
+      "family": "Eunomia",
+      "eta_mae": 0.0162,
+      "n_bins": 30
+    },
+    {
+      "zone": "MB",
+      "family": "Hansa",
+      "eta_mae": 0.0332,
+      "n_bins": 30
+    },
+    {
+      "zone": "OB",
+      "family": "Themis",
+      "eta_mae": 0.014,
+      "n_bins": 30
+    },
+    {
+      "zone": "OB",
+      "family": "Eos",
+      "eta_mae": 0.0269,
+      "n_bins": 30
+    },
+    {
+      "zone": "PB",
+      "family": "Koronis-2",
+      "eta_mae": 0.0222,
+      "n_bins": 30
+    },
+    {
+      "zone": "HU",
+      "family": "Hungaria",
+      "eta_mae": 0.0201,
+      "n_bins": 30
+    }
+  ],
+  "families_mean_eta_mae": 0.0203
+}
