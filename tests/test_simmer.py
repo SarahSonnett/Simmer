@@ -955,6 +955,16 @@ def test_observed_sfd_cryo_filter():
         assert n_all == 2                                  # both without the filter
 
 
+def test_designation_canonicalization_unifies_all_forms():
+    """Every identifier form of the same object must map to one canonical id
+    (internal-space and packed forms are the historic traps)."""
+    from simmer import designations as dg
+    assert dg.canonical("588") == dg.canonical("00588") == 588
+    assert (dg.canonical("2008 RK58") == dg.canonical("2008RK58")
+            == dg.canonical("K08R58K") == "2008RK58")
+    assert dg.canonical("A0475") == dg.canonical("100475") == 100475
+
+
 if __name__ == "__main__":
     fns = [v for k, v in sorted(globals().items()) if k.startswith("test_")]
     for fn in fns:
