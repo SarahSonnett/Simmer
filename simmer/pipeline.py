@@ -189,7 +189,8 @@ def _write(cfg, hits, catalog, sensitivity, log) -> Path:
         hits.to_parquet(det_path, index=False)
     else:
         det_path = stem.with_name(f"{cfg.name}_detections.csv")
-        hits.to_csv(det_path, index=False, float_format="%.6g")
+        # %.6g would truncate 5-digit MJDs to 0.1 d; frame times must survive to ~1e-6 d
+        hits.to_csv(det_path, index=False, float_format="%.10g")
 
     # Per-object detection summary (how many times each object was detected).
     summary = object_summary(catalog, hits, cfg.min_detections, cfg.detection_band,
